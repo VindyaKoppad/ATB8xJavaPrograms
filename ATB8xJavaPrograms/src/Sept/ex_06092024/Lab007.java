@@ -13,7 +13,7 @@ public class Lab007 {
 		//this is used to show the user or developer instructions
 		//You can write anything here
 		System.out.println("Hello Vindya");
-		/*This is Multiline comment
+		/*This is Multiple line comment
 		 * 
 		 * Write anything here
 		 * 

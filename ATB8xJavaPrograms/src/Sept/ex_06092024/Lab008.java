@@ -13,7 +13,7 @@ public class Lab008 {
 		//Below code will be executed and it will print Hello Vindya.
 		System.out.println("Hello Vindya");
 		//This is Single line comment
-		/*This is Multiline comment
+		/*This is Multiple line comment
 		 * 
 		 * */
 
