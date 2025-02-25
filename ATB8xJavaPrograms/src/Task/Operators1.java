@@ -1,6 +1,6 @@
 package Task;
 
-public class Task3_Operators1 {
+public class Operators1 {
 
 	public static void main(String[] args) {
 		// Difference between = and ==

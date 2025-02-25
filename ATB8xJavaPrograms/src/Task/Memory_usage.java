@@ -1,6 +1,6 @@
 package Task;
 
-public class Task4_Memory_usage {
+public class Memory_usage {
 
 	public static void main(String[] args) {
 		// Memory used
