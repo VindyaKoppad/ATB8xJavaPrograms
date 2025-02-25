@@ -1,6 +1,6 @@
 package Task;
 
-public class Task7 {
+public class Task7_Switch {
 
 	public static void main(String[] args) {
 		//Create a simple calculator that performs 

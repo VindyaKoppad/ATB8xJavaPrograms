@@ -1,6 +1,6 @@
 package Task;
 
-public class Task2 {
+public class Task2_Operators {
 
 	public static void main(String[] args) {
 		// Prepare calculator which supports +,-,*,/,% Operaters

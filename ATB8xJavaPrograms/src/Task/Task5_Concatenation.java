@@ -1,6 +1,6 @@
 package Task;
 
-public class Task5 {
+public class Task5_Concatenation {
 
 	public static void main(String[] args) {
 		byte a=10;

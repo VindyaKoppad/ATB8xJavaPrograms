@@ -1,6 +1,6 @@
 package Task;
 
-public class Task6 {
+public class Task6_ASCII {
 
 	public static void main(String[] args) {
 		short s=10;

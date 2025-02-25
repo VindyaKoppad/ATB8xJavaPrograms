@@ -1,6 +1,6 @@
 package Task;
 
-public class Task8 {
+public class Task8_Simple_Calc_Switch {
 
 	public static void main(String[] args) {
 		//Write a program that takes an integer input(1 to 12) 

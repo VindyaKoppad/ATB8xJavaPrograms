@@ -1,6 +1,6 @@
 package Task;
 
-public class Task9 {
+public class Task9_Switch1 {
 
 	public static void main(String[] args) {
 		// kilometers × 1000 = meters
